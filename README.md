@@ -43,7 +43,7 @@ I work across the stack — from **React / Next.js** frontends to **Java Spring 
 | Project | Stack | Description |
 |---|---|---|
 | [danielramalho.dev](https://github.com/Ramalho2000/portfolio) | Next.js · TypeScript · Tailwind | My personal portfolio site |
-| [Car Dealership App](https://github.com/Ramalho2000/car-dealership) | React · Spring Boot | Full-stack CRUD app with auth |
+| [Car Dealership App](https://github.com/Ramalho2000/car-dealership) | Next.js · TypeScript · Prisma | Full-stack CRUD app with auth |
 
 ---
 
