@@ -30,7 +30,7 @@ I work across the stack — from **React / Next.js** frontends to **Java Spring 
 
 ---
 
-## 🚀 What I'm working on
+## 🚀 What I'm working on @ Accenture *(for a large retail client)*
 
 - **AI Assistant for Store Managers** — Feature Lead on a conversational AI product built with Next.js + Spring Boot, managing sprint backlog, user stories, and cross-team delivery
 - **Internal Component & Utility Library** — Architected a Vite + TypeScript shared library to unify UI components and business logic across multiple retail platforms
@@ -38,12 +38,14 @@ I work across the stack — from **React / Next.js** frontends to **Java Spring 
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Personal Projects
 
-| Project | Stack | Description |
+> All built with **Next.js · TypeScript · Tailwind CSS · Prisma · Cloudinary · Google Auth**
+
+| Project | Extra | Description |
 |---|---|---|
-| [danielramalho.dev](https://github.com/Ramalho2000/portfolio) | Next.js · TypeScript · Tailwind | My personal portfolio site |
-| [Car Dealership App](https://github.com/Ramalho2000/car-dealership) | Next.js · TypeScript · Prisma | Full-stack CRUD app with auth |
+| [events-club](https://github.com/Ramalho2000/events-club) | shadcn/ui | Event management platform — browse, create and manage events with image uploads and authenticated users |
+| [car-dealership](https://github.com/Ramalho2000/car-dealership) | — | Car dealership platform with listing management, image uploads and Google authentication |
 
 ---
 
