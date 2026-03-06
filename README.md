@@ -42,10 +42,10 @@ I work across the stack — from **React / Next.js** frontends to **Java Spring 
 
 > All built with **Next.js · TypeScript · Tailwind CSS · Prisma · Cloudinary · Google Auth**
 
-| Project | Extra | Description |
-|---|---|---|
-| [events-club](https://github.com/Ramalho2000/events-club) | shadcn/ui | Event management platform — browse, create and manage events with image uploads and authenticated users |
-| [car-dealership](https://github.com/Ramalho2000/car-dealership) | — | Car dealership platform with listing management, image uploads and Google authentication |
+| Project | Description |
+|---|---|
+| [events-club](https://github.com/Ramalho2000/events-club) | Event management platform — browse, create and manage events with image uploads and authenticated users |
+| [car-dealership](https://github.com/Ramalho2000/car-dealership) | Car dealership platform with listing management, image uploads and Google authentication |
 
 ---
 
