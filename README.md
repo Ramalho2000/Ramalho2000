@@ -1,7 +1,7 @@
 # Hi, I'm Daniel 👋
 
-Software Engineer at **Broadvoice**, building **AI Analytics** for contact centers.  
-I'm a product engineer focused on **frontend, AI and data**. I lead the frontend for a product that lets supervisors explore call metrics through React dashboards and a chatbot that answers in plain language. I also build the **Node.js / NestJS** services behind its **MCP** tools.
+I'm a Software Engineer at Broadvoice, where I work on AI Analytics for contact centers.  
+I enjoy building products end to end, mostly on the frontend but increasingly with AI and data too.
 
 ---
 
@@ -38,16 +38,16 @@ I'm a product engineer focused on **frontend, AI and data**. I lead the frontend
 
 ## 🚀 What I'm working on @ Broadvoice
 
-- **AI Analytics** — Frontend lead on an AI product for contact-center supervisors, built on a platform that processes **millions of calls daily** and already has **hundreds of registered clients**
-- **Conversational analytics** — React dashboards and a chatbot that answers supervisors' questions in plain language, comparing time ranges and campaigns
-- **MCP tools** — Node.js / NestJS APIs and services that expose call metrics to the AI through MCP servers and prepare that data for the LLM
-- **Design system** — Contributing to the company's shared design system
+- **AI Analytics**: helping build a product that gives contact-center supervisors insight into their calls and agents
+- **Dashboards & chatbot**: working on the React frontend, including a chatbot that answers questions in plain language
+- **MCP tools**: writing Node.js / NestJS services that give the AI access to call metrics
+- **Design system**: contributing to the company's shared components
 
-## 🏢 Previously @ Accenture *(2023 – 2026, for a large retail client)*
+## 🏢 Previously @ Accenture *(2023 – 2026, for a retail client)*
 
-- **AI Assistant for Store Managers** — Feature Lead on a conversational AI product (Next.js + Spring Boot) used by **1,000+ store managers**
-- **Unified Shipping & Payment Service** — Configurable Next.js service that replaced several legacy checkout flows, serving **millions of customers daily**
-- **Internal Component Library** — Vite + TypeScript shared library to unify UI components and business logic across retail platforms
+- **AI Assistant for Store Managers**: worked as Feature Lead on a conversational assistant (Next.js + Spring Boot)
+- **Shipping & Payment Service**: helped build a Next.js service to replace older checkout flows
+- **Component Library**: worked on a shared Vite + TypeScript library used across several platforms
 
 ---
 
