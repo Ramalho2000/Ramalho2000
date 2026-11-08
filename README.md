@@ -31,7 +31,7 @@ I'm a product engineer focused on **frontend, AI and data**. I lead the frontend
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=fff)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=fff)
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=fff)
-![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=fff)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square)
 ![Testing Library](https://img.shields.io/badge/-Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=fff)
 
 ---
